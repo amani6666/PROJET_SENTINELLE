@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  # BROKER MQTT (Le Messager)
+  mosquitto:
+    image: eclipse-mosquitto
+    container_name: mosquitto
+    restart: always
+    ports:
+      - "1883:1883"      # Port standard MQTT
+      - "9001:9001"      # Port pour WebSockets
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+
+  # BASE DE DONNÉES
+  influxdb:
+    image: influxdb:2.0
+    container_name: influxdb
+    restart: always
+    ports:
+      - "8086:8086"
+    volumes:
+      - ./influxdb/data:/var/lib/influxdb2
+
+  # VISUALISATION
+  grafana:
+    image: grafana/grafana
+    container_name: grafana
+    restart: always
+    ports:
+      - "3000:3000"
+    depends_on:
+      - influxdb

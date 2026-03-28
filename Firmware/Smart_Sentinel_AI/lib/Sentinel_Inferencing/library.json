@@ -1,0 +1,20 @@
+{
+    "name": "Sentinel_Inferencing",
+    "version": "1.0.0",
+    "build": {
+        "flags": [
+            "-I src/",
+            "-I src/edge-impulse-sdk/",
+            "-I src/model-parameters/",
+            "-I src/tflite-model/",
+            "-D EI_PORTING_ARDUINO=1"
+        ],
+        "srcFilter": [
+            "+<*>",
+            "+<../src/edge-impulse-sdk/porting/arduino/*.cpp>",
+            "+<../src/edge-impulse-sdk/dsp/kissfft/*.cpp>",
+            "+<../src/edge-impulse-sdk/dsp/dct/*.cpp>",
+            "+<../src/edge-impulse-sdk/classifier/inferencing_engines/tflite_eon.cpp>"
+        ]
+    }
+}

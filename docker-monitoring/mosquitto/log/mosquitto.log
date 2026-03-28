@@ -1,0 +1,315 @@
+1770509063: mosquitto version 2.1.0 starting
+1770509063: Config loaded from /mosquitto/config/mosquitto.conf.
+1770509063: Bridge support available.
+1770509063: Persistence support available.
+1770509063: TLS support available.
+1770509063: TLS-PSK support available.
+1770509063: Websockets support available.
+1770509063: Opening ipv4 listen socket on port 1883.
+1770509063: mosquitto version 2.1.0 running
+1770509134: New connection from 172.19.0.1:48718 on port 1883.
+1770509134: New client connected from 172.19.0.1:48718 as auto-B4BA8D62-4F90-7BE8-44C1-275CB7CA0952 (p4, c1, k60).
+1770509223: New connection from 172.19.0.1:50062 on port 1883.
+1770509223: New client connected from 172.19.0.1:50062 as Sentinel_ESP32 (p4, c1, k15).
+1770509743: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1770510812: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770512166: New connection from 172.19.0.1:37228 on port 1883.
+1770512167: New client connected from 172.19.0.1:37228 as auto-5A001A93-00F8-6B60-65F7-94A5F7C96BEF (p4, c1, k60).
+1770512226: New connection from 172.19.0.1:57884 on port 1883.
+1770512226: New client connected from 172.19.0.1:57884 as Sentinel_ESP32 (p4, c1, k15).
+1770512469: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1770512546: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770512701: New connection from 172.19.0.1:41014 on port 1883.
+1770512701: New client connected from 172.19.0.1:41014 as auto-9EEB4854-5748-18E3-E94F-752A75C49417 (p4, c1, k60).
+1770512713: New connection from 172.19.0.1:50084 on port 1883.
+1770512713: New client connected from 172.19.0.1:50084 as Sentinel_ESP32 (p4, c1, k15).
+1770512910: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1770513096: Client auto-9EEB4854-5748-18E3-E94F-752A75C49417 closed its connection.
+1770513096: Client auto-5A001A93-00F8-6B60-65F7-94A5F7C96BEF closed its connection.
+1770513161: New connection from 172.19.0.1:42486 on port 1883.
+1770513161: New client connected from 172.19.0.1:42486 as auto-22931ABE-62A9-E3AE-E48E-38A9EC4E6E8D (p4, c1, k60).
+1770513161: New connection from 172.19.0.1:42496 on port 1883.
+1770513161: New client connected from 172.19.0.1:42496 as auto-AC2A40E4-5755-5B32-93CB-C5D31DAC5BD3 (p4, c1, k60).
+1770513194: Client auto-AC2A40E4-5755-5B32-93CB-C5D31DAC5BD3 closed its connection.
+1770513194: Client auto-22931ABE-62A9-E3AE-E48E-38A9EC4E6E8D closed its connection.
+1770514277: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770516006: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770516969: Client auto-B4BA8D62-4F90-7BE8-44C1-275CB7CA0952 closed its connection.
+1770517736: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770519468: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770521200: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1770522932: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771323307: mosquitto version 2.1.0 starting
+1771323307: Config loaded from /mosquitto/config/mosquitto.conf.
+1771323307: Bridge support available.
+1771323307: Persistence support available.
+1771323307: TLS support available.
+1771323307: TLS-PSK support available.
+1771323307: Websockets support available.
+1771323307: Opening ipv4 listen socket on port 1883.
+1771323307: mosquitto version 2.1.0 running
+1771325112: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771327362: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771329169: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771330973: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771333253: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771342403: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771344207: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771346012: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771347819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771349627: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771351435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771353244: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771355055: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771356863: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771358673: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771360482: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771414786: mosquitto version 2.1.0 starting
+1771414786: Config loaded from /mosquitto/config/mosquitto.conf.
+1771414786: Bridge support available.
+1771414786: Persistence support available.
+1771414786: TLS support available.
+1771414786: TLS-PSK support available.
+1771414786: Websockets support available.
+1771414786: Opening ipv4 listen socket on port 1883.
+1771414786: mosquitto version 2.1.0 running
+1771416110: New connection from 172.19.0.1:39846 on port 1883.
+1771416111: New client connected from 172.19.0.1:39846 as Sentinel_ESP32 (p4, c1, k15).
+1771416436: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1771416470: New connection from 172.19.0.1:45156 on port 1883.
+1771416470: New client connected from 172.19.0.1:45156 as Sentinel_ESP32 (p4, c1, k15).
+1771416521: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771418239: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771419956: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771421614: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1771421652: New connection from 172.19.0.1:53926 on port 1883.
+1771421652: New client connected from 172.19.0.1:53926 as Sentinel_ESP32 (p4, c1, k15).
+1771421685: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771421712: New connection from 172.19.0.1:38494 on port 1883.
+1771421712: Client Sentinel_ESP32 disconnected, session taken over.
+1771421712: New client connected from 172.19.0.1:38494 as Sentinel_ESP32 (p4, c1, k15).
+1771422770: New connection from 172.19.0.1:47612 on port 1883.
+1771422770: Client Sentinel_ESP32 disconnected, session taken over.
+1771422770: New client connected from 172.19.0.1:47612 as Sentinel_ESP32 (p4, c1, k15).
+1771423406: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771424366: Client Sentinel_ESP32 closed its connection.
+1771424390: New connection from 172.19.0.1:32840 on port 1883.
+1771424390: New client connected from 172.19.0.1:32840 as Sentinel_ESP32 (p4, c1, k15).
+1771424449: Client Sentinel_ESP32 closed its connection.
+1771425134: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771426863: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771427985: New connection from 172.19.0.1:47844 on port 1883.
+1771427986: New client connected from 172.19.0.1:47844 as Sentinel_ESP32 (p4, c1, k15).
+1771428437: New connection from 172.19.0.1:42558 on port 1883.
+1771428438: New client connected from 172.19.0.1:42558 as auto-FE8BAC54-BC75-E129-465C-9A72AB22AE98 (p4, c1, k60).
+1771428486: New connection from 172.19.0.1:36200 on port 1883.
+1771428486: Client Sentinel_ESP32 disconnected, session taken over.
+1771428486: New client connected from 172.19.0.1:36200 as Sentinel_ESP32 (p4, c1, k15).
+1771428533: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1771428608: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771429431: New connection from 172.19.0.1:39522 on port 1883.
+1771429432: New client connected from 172.19.0.1:39522 as auto-3621D783-4B29-C41A-388D-3BDB3E75C915 (p4, c1, k60).
+1771429493: New connection from 172.19.0.1:48148 on port 1883.
+1771429493: New client connected from 172.19.0.1:48148 as Sentinel_ESP32 (p4, c1, k15).
+1771429708: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1771429802: New connection from 172.19.0.1:56516 on port 1883.
+1771429802: New client connected from 172.19.0.1:56516 as auto-3919DEA5-8E5F-CEAD-7C7A-033A8338CD6D (p4, c1, k60).
+1771429820: New connection from 172.19.0.1:56354 on port 1883.
+1771429820: New client connected from 172.19.0.1:56354 as Sentinel_ESP32 (p4, c1, k15).
+1771430087: Client Sentinel_ESP32 has exceeded timeout, disconnecting.
+1771430337: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771432076: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771433806: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771434131: Client auto-3919DEA5-8E5F-CEAD-7C7A-033A8338CD6D closed its connection.
+1771434131: Client auto-3621D783-4B29-C41A-388D-3BDB3E75C915 closed its connection.
+1771434131: Client auto-FE8BAC54-BC75-E129-465C-9A72AB22AE98 closed its connection.
+1771434142: New connection from 172.19.0.1:60646 on port 1883.
+1771434142: New connection from 172.19.0.1:60648 on port 1883.
+1771434142: New client connected from 172.19.0.1:60646 as auto-57B0DA7C-C34F-77FE-3C9A-6ACB56BC2815 (p4, c1, k60).
+1771434142: New client connected from 172.19.0.1:60648 as auto-08606D3C-E5C7-2017-0F70-005E1886FB6E (p4, c1, k60).
+1771434146: New connection from 172.19.0.1:35774 on port 1883.
+1771434146: New client connected from 172.19.0.1:35774 as auto-59A95B82-B216-E2C7-6F76-04988252CFB6 (p4, c1, k60).
+1771434154: Client auto-57B0DA7C-C34F-77FE-3C9A-6ACB56BC2815 closed its connection.
+1771434154: Client auto-08606D3C-E5C7-2017-0F70-005E1886FB6E closed its connection.
+1771434154: Client auto-59A95B82-B216-E2C7-6F76-04988252CFB6 closed its connection.
+1771434186: New connection from 172.19.0.1:43898 on port 1883.
+1771434186: New connection from 172.19.0.1:43900 on port 1883.
+1771434186: New client connected from 172.19.0.1:43898 as auto-D613240D-73D5-13B1-2327-D53307DC003B (p4, c1, k60).
+1771434186: New client connected from 172.19.0.1:43900 as auto-6E57DC18-B7B3-8A1D-7400-74DF03C4D133 (p4, c1, k60).
+1771434186: New connection from 172.19.0.1:43916 on port 1883.
+1771434186: New client connected from 172.19.0.1:43916 as auto-21927E2E-F823-2842-BA90-3BCD429275A8 (p4, c1, k60).
+1771435538: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771435961: Client auto-6E57DC18-B7B3-8A1D-7400-74DF03C4D133 closed its connection.
+1771435961: Client auto-D613240D-73D5-13B1-2327-D53307DC003B closed its connection.
+1771435961: Client auto-21927E2E-F823-2842-BA90-3BCD429275A8 closed its connection.
+1771435969: New connection from 172.19.0.1:55916 on port 1883.
+1771435969: Client 172.19.0.1 closed its connection.
+1771435976: New connection from 172.19.0.1:33854 on port 1883.
+1771435976: New connection from 172.19.0.1:33868 on port 1883.
+1771435976: New client connected from 172.19.0.1:33854 as auto-64A22369-2555-3E93-62EA-CF9AA139DDDF (p4, c1, k60).
+1771435976: New client connected from 172.19.0.1:33868 as auto-3C202116-6220-956F-C897-A52B1E2FE624 (p4, c1, k60).
+1771435979: New connection from 172.19.0.1:33882 on port 1883.
+1771435979: New client connected from 172.19.0.1:33882 as auto-7F5EF94F-A516-7FEE-20FA-46804EA33F96 (p4, c1, k60).
+1771436688: Client auto-64A22369-2555-3E93-62EA-CF9AA139DDDF closed its connection.
+1771436688: Client auto-3C202116-6220-956F-C897-A52B1E2FE624 closed its connection.
+1771436688: Client auto-7F5EF94F-A516-7FEE-20FA-46804EA33F96 closed its connection.
+1771437271: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771439005: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771440740: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771442477: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771444214: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771445953: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771447694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771449435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771451178: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771452922: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771454668: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771679505: mosquitto version 2.1.0 starting
+1771679505: Config loaded from /mosquitto/config/mosquitto.conf.
+1771679505: Bridge support available.
+1771679505: Persistence support available.
+1771679505: TLS support available.
+1771679505: TLS-PSK support available.
+1771679505: Websockets support available.
+1771679505: Opening ipv4 listen socket on port 1883.
+1771679505: mosquitto version 2.1.0 running
+1771681293: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771683076: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1771684848: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774642075: mosquitto version 2.1.0 starting
+1774642075: Config loaded from /mosquitto/config/mosquitto.conf.
+1774642075: Bridge support available.
+1774642075: Persistence support available.
+1774642075: TLS support available.
+1774642075: TLS-PSK support available.
+1774642075: Websockets support available.
+1774642075: Opening ipv4 listen socket on port 1883.
+1774642075: mosquitto version 2.1.0 running
+1774657173: mosquitto version 2.1.0 starting
+1774657173: Config loaded from /mosquitto/config/mosquitto.conf.
+1774657173: Bridge support available.
+1774657173: Persistence support available.
+1774657173: TLS support available.
+1774657173: TLS-PSK support available.
+1774657173: Websockets support available.
+1774657173: Opening ipv4 listen socket on port 1883.
+1774657173: mosquitto version 2.1.0 running
+1774657223: New connection from 127.0.0.1:49690 on port 1883.
+1774657223: New client connected from 127.0.0.1:49690 as auto-55FB5788-7190-3C82-F169-5E09571A215E (p4, c1, k60).
+1774657460: New connection from 127.0.0.1:38240 on port 1883.
+1774657460: New client connected from 127.0.0.1:38240 as auto-101F8694-AE36-D891-2CD0-ADBC477F9EB6 (p4, c1, k60).
+1774657460: Client auto-101F8694-AE36-D891-2CD0-ADBC477F9EB6 disconnected.
+1774657819: New connection from 172.19.0.1:36548 on port 1883.
+1774657819: New client connected from 172.19.0.1:36548 as Sentinel_Node_01 (p4, c1, k15).
+1774657917: New connection from 127.0.0.1:37878 on port 1883.
+1774657917: New client connected from 127.0.0.1:37878 as auto-EB86FF1F-9548-E2BA-7266-6718DCC1D3E3 (p4, c1, k60).
+1774657952: Client auto-EB86FF1F-9548-E2BA-7266-6718DCC1D3E3 disconnected.
+1774658451: New connection from 172.19.0.1:58362 on port 1883.
+1774658451: New client connected from 172.19.0.1:58362 as auto-C9EEF279-CC38-3A56-368E-36B9B72BC01F (p4, c1, k60).
+1774658599: Client auto-C9EEF279-CC38-3A56-368E-36B9B72BC01F has exceeded timeout, disconnecting.
+1774658939: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774659214: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774659265: New connection from 172.19.0.1:52018 on port 1883.
+1774659266: New client connected from 172.19.0.1:52018 as Sentinel_Node_01 (p4, c1, k15).
+1774660051: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774660068: New connection from 172.19.0.1:40322 on port 1883.
+1774660068: New connection from 172.19.0.1:40338 on port 1883.
+1774660069: New client connected from 172.19.0.1:40322 as Sentinel_Node_01 (p4, c1, k15).
+1774660069: Client Sentinel_Node_01 disconnected, session taken over.
+1774660069: New client connected from 172.19.0.1:40338 as Sentinel_Node_01 (p4, c1, k15).
+1774660070: Client Sentinel_Node_01 closed its connection.
+1774660071: New connection from 172.19.0.1:40340 on port 1883.
+1774660071: New client connected from 172.19.0.1:40340 as Sentinel_Node_01 (p4, c1, k15).
+1774660709: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774662090: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774662108: New connection from 172.19.0.1:38914 on port 1883.
+1774662108: New client connected from 172.19.0.1:38914 as Sentinel_Node_01 (p4, c1, k15).
+1774662189: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774662488: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774662922: New connection from 172.19.0.1:42588 on port 1883.
+1774662925: New client connected from 172.19.0.1:42588 as auto-07A21C97-31AA-040D-289B-F4B2137AB6B0 (p4, c1, k60).
+1774663127: New connection from 172.19.0.1:56652 on port 1883.
+1774663127: New client connected from 172.19.0.1:56652 as Sentinel_Node_01 (p4, c1, k15).
+1774663282: Client auto-07A21C97-31AA-040D-289B-F4B2137AB6B0 closed its connection.
+1774663812: New connection from 172.19.0.1:57090 on port 1883.
+1774663812: Client Sentinel_Node_01 disconnected, session taken over.
+1774663812: New client connected from 172.19.0.1:57090 as Sentinel_Node_01 (p4, c1, k15).
+1774663826: New connection from 172.19.0.1:41104 on port 1883.
+1774663826: New client connected from 172.19.0.1:41104 as auto-A7E5A794-8190-2016-7177-06210006006F (p4, c1, k60).
+1774663888: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774664053: New connection from 172.19.0.1:35710 on port 1883.
+1774664053: New client connected from 172.19.0.1:35710 as auto-931B86F6-FD4F-3760-82AF-DABBE848FB8F (p4, c1, k60).
+1774664145: New connection from 172.19.0.1:49176 on port 1883.
+1774664145: New client connected from 172.19.0.1:49176 as Sentinel_Node_01 (p4, c1, k15).
+1774664162: Client auto-A7E5A794-8190-2016-7177-06210006006F closed its connection.
+1774664162: Client auto-931B86F6-FD4F-3760-82AF-DABBE848FB8F closed its connection.
+1774664184: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774664269: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774664341: New connection from 172.19.0.1:60300 on port 1883.
+1774664345: New client connected from 172.19.0.1:60300 as auto-60E36DD5-FDC2-5DCD-04F9-399C7CFC0A0C (p4, c1, k60).
+1774664455: New connection from 172.19.0.1:58254 on port 1883.
+1774664455: New client connected from 172.19.0.1:58254 as Sentinel_Node_01 (p4, c1, k15).
+1774664561: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774664594: New connection from 172.19.0.1:49420 on port 1883.
+1774664594: New client connected from 172.19.0.1:49420 as Sentinel_Node_01 (p4, c1, k15).
+1774664630: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774664655: New connection from 172.19.0.1:59382 on port 1883.
+1774664655: New client connected from 172.19.0.1:59382 as Sentinel_Node_01 (p4, c1, k15).
+1774664675: New connection from 172.19.0.1:41918 on port 1883.
+1774664676: New client connected from 172.19.0.1:41918 as auto-A54A955A-CE78-1066-50AE-3C3B97941F52 (p4, c1, k60).
+1774664838: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774665185: New connection from 172.19.0.1:46830 on port 1883.
+1774665185: New client connected from 172.19.0.1:46830 as auto-391605B4-8C63-1576-1341-1B1E0C51DD40 (p4, c1, k60).
+1774665203: New connection from 172.19.0.1:59214 on port 1883.
+1774665203: New client connected from 172.19.0.1:59214 as Sentinel_Node_01 (p4, c1, k15).
+1774665353: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774665382: New connection from 172.19.0.1:50068 on port 1883.
+1774665382: New client connected from 172.19.0.1:50068 as auto-16334D0A-3838-4537-6536-893FDA68A192 (p4, c1, k60).
+1774665397: New connection from 172.19.0.1:40152 on port 1883.
+1774665397: New client connected from 172.19.0.1:40152 as Sentinel_Node_01 (p4, c1, k15).
+1774665559: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774665641: New connection from 172.19.0.1:41326 on port 1883.
+1774665641: New client connected from 172.19.0.1:41326 as auto-1A0F4E95-6975-5B11-E6E9-E23CA91E0EA8 (p4, c1, k60).
+1774665656: New connection from 172.19.0.1:42464 on port 1883.
+1774665657: New client connected from 172.19.0.1:42464 as Sentinel_Node_01 (p4, c1, k15).
+1774665672: Client Sentinel_Node_01 closed its connection.
+1774665674: New connection from 172.19.0.1:35272 on port 1883.
+1774665674: New client connected from 172.19.0.1:35272 as Sentinel_Node_01 (p4, c1, k15).
+1774665813: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774666051: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774667824: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774703775: mosquitto version 2.1.0 starting
+1774703775: Config loaded from /mosquitto/config/mosquitto.conf.
+1774703775: Bridge support available.
+1774703775: Persistence support available.
+1774703775: TLS support available.
+1774703775: TLS-PSK support available.
+1774703775: Websockets support available.
+1774703775: Opening ipv4 listen socket on port 1883.
+1774703775: mosquitto version 2.1.0 running
+1774705518: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774706397: New connection from 127.0.0.1:35650 on port 1883.
+1774706397: New client connected from 127.0.0.1:35650 as auto-C5D4862F-F945-77AA-285B-BE4F16281D44 (p4, c1, k60).
+1774706398: Client auto-C5D4862F-F945-77AA-285B-BE4F16281D44 disconnected.
+1774706407: New connection from 127.0.0.1:39438 on port 1883.
+1774706407: New client connected from 127.0.0.1:39438 as auto-7C2C9B07-61DF-C273-C1D5-E105D02C931C (p4, c1, k60).
+1774706505: New connection from 172.19.0.1:42722 on port 1883.
+1774706507: New client connected from 172.19.0.1:42722 as Sentinel_Node_01 (p4, c1, k15).
+1774707048: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774707244: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774707555: New connection from 172.19.0.1:43538 on port 1883.
+1774707555: New client connected from 172.19.0.1:43538 as Sentinel_Node_01 (p4, c1, k15).
+1774707655: New connection from 172.19.0.1:34154 on port 1883.
+1774707655: Client Sentinel_Node_01 disconnected, session taken over.
+1774707655: New client connected from 172.19.0.1:34154 as Sentinel_Node_01 (p4, c1, k15).
+1774708966: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774710688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774711739: Client Sentinel_Node_01 has exceeded timeout, disconnecting.
+1774712410: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774714143: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774715865: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774717591: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774719320: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774721052: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774722801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1774724543: Saving in-memory database to /mosquitto/data//mosquitto.db.
