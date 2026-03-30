@@ -5,7 +5,7 @@
 #include "tensorflow/lite/micro/all_ops_resolver.h"
 #include "tensorflow/lite/micro/micro_interpreter.h"
 #include "tensorflow/lite/micro/micro_error_reporter.h"
-#include "sentinel_core.h" // Généré par ton script tools/convertisseur.py
+#include "sentinel_core.h" 
 
 MPU9250 mpu;
 
