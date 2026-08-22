@@ -1,35 +1,51 @@
-version: '3.8'
-
 services:
-  # BROKER MQTT (Le Messager)
   mosquitto:
-    image: eclipse-mosquitto
+    image: eclipse-mosquitto:latest
     container_name: mosquitto
     restart: always
     ports:
-      - "1883:1883"      # Port standard MQTT
-      - "9001:9001"      # Port pour WebSockets
-    volumes:
-      - ./mosquitto/config:/mosquitto/config
-      - ./mosquitto/data:/mosquitto/data
-      - ./mosquitto/log:/mosquitto/log
+      - "1883:1883"
+      - "9001:9001"
 
-  # BASE DE DONNÉES
   influxdb:
     image: influxdb:2.0
     container_name: influxdb
     restart: always
     ports:
       - "8086:8086"
-    volumes:
-      - ./influxdb/data:/var/lib/influxdb2
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=admin
+      - DOCKER_INFLUXDB_INIT_PASSWORD=adminpassword123
+      - DOCKER_INFLUXDB_INIT_ORG=sentinelle
+      - DOCKER_INFLUXDB_INIT_BUCKET=machine_vibration
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=my-super-secret-auth-token
 
-  # VISUALISATION
   grafana:
-    image: grafana/grafana
+    image: grafana/grafana:10.4.0
     container_name: grafana
     restart: always
     ports:
       - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_AUTH_ANONYMOUS_ENABLED=true
+      - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin
     depends_on:
       - influxdb
+
+  nodered:
+    image: nodered/node-red:latest
+    container_name: nodered
+    restart: always
+    ports:
+      - "1880:1880"
+    volumes:
+      - nodered_data:/data
+    depends_on:
+      - mosquitto
+      - influxdb
+
+volumes:
+  nodered_data:

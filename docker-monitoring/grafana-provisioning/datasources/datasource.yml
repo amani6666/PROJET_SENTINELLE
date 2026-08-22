@@ -1,0 +1,15 @@
+apiVersion: 1
+
+datasources:
+  - name: influxdb
+    type: influxdb
+    access: proxy
+    url: http://influxdb:8086
+    jsonData:
+      version: Flux
+      organization: edgeai
+      defaultBucket: machine_vibration
+    secureJsonData:
+      token: my-super-secret-auth-token
+    isDefault: true
+    editable: true
